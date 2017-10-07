@@ -1,5 +1,4 @@
-// Henry's Bench
-// PCF8591 Simple Voltage Measurement
+
 #include <Wire.h>
 
 #define PCF8591 (0x90 >> 1) // I2C bus address
